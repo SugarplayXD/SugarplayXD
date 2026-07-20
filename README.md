@@ -1,5 +1,5 @@
 ## Hola a tod@s 👋 Soy Candy
-### me gustaría aprender a programas y también a tener un conocimiento base en construir mi propio pc, por lo que ello implica dedicación y vocación, cosas que llevo años aprendiendo por mi cuenta, no tengo titulación pero me gustaría llegar a tener una carrera dedicada a programar y a ciberseguridad.
+### Me gustaría aprender a programas y también a tener un conocimiento base en construir mi propio pc, por lo que ello implica dedicación y vocación, cosas que llevo años aprendiendo por mi cuenta, no tengo titulación pero me gustaría llegar a tener una carrera dedicada a programar y a ciberseguridad.
 
 <!--
 **SugarplayXD/SugarplayXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
